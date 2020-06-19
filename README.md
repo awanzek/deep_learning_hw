@@ -8,11 +8,11 @@ The following results were seen when plotting the actual and predicted prices fo
 
 ### LSTM RNN Model Based on Previous 10 Days of Closing Price
 
-![Closing Price Model Price Predictions](./BTC_Price_Prediction_Closing_Price.png)
+![Closing Price Model Price Predictions](./BTC_Price_Prediction_Closing_Prices.png)
 
 ### LSTM RNN Model Based on Previous 10 Days of FNG Index
 
-![FNG Index Model Price Predictions](./BTC_Price_Prediction_FNG_Index.png)
+![FNG Index Model Price Predictions](./BTC_Price_Predictions_FNG_Index.png)
 
 ## Based on these plots and the resulting data the following questions can be addressed:
 
